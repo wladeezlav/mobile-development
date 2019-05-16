@@ -1,0 +1,4 @@
+#Mon May 13 19:01:02 EEST 2019
+base.0=E\:\\Special4Java2\\Lab2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

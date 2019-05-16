@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mamontov IS-63</string>
+    <string name="header">Lab3</string>
+
+    <string name="pricies">Price range</string>
+    <string name="pricies1">0-10$</string>
+    <string name="pricies2">10-50$</string>
+    <string name="pricies3">50-100$</string>
+
+    <string name="manufacturer">Manufacturer</string>
+    <string name="manufacturer1">Skeppshult</string>
+    <string name="manufacturer2">Bohemia</string>
+    <string name="manufacturer3">Japonica</string>
+
+    <string name="button">Result</string>
+
+    <string name="button_save">Show database</string>
+
+    <string name="spinner_element1">Palete</string>
+    <string name="spinner_element2">Pan</string>
+    <string name="spinner_element3">Fork</string>
+    <string name="spinner_element4">Spoon</string>
+
+    <!--<string-array name="dishes_array">
+        <item>Palete</item>
+        <item>Fork</item>
+        <item>Pan</item>
+        <item>Spoon</item>
+    </string-array>-->
+
+</resources>

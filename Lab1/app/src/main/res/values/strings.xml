@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mamontov IS-63</string>
+    <string name="header">Lab1</string>
+
+    <string name="pricies">Price range</string>
+    <string name="pricies1">0-10$</string>
+    <string name="pricies2">10-50$</string>
+    <string name="pricies3">50-100$</string>
+
+    <string name="manufacturer">Manufacturer</string>
+    <string name="manufacturer1">Skeppshult</string>
+    <string name="manufacturer2">Bohemia</string>
+    <string name="manufacturer3">Japonica</string>
+
+    <string name="button">Result</string>
+</resources>
