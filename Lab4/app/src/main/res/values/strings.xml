@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4_new</string>
+
+    <string name="audio_button">Audio</string>
+    <string name="video_button">Video</string>
+    <string name="internet_button">Video from Youtube</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>
